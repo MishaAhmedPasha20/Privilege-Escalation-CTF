@@ -1,0 +1,5 @@
+*.o 
+vuln 
+rootshell 
+rootbash 
+*.log 
